@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/tvJoke"
+        android:id="@+id/tvJokeQuestion"
         style="@style/Label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -19,14 +19,27 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.4" />
 
+    <TextView
+        android:id="@+id/tvJokeAnswer"
+        style="@style/Label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/label_joker_hint"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvJokeQuestion" />
+
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btNewJoke"
         style="@style/Button"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
         android:text="@string/button_new_joker"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/tvJoke" />
+        app:layout_constraintTop_toBottomOf="@id/tvJokeAnswer" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

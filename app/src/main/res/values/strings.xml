@@ -4,12 +4,11 @@
     <string name="label_joker_hint">Here will be shown the joke</string>
     <string name="button_new_joker">Tell another joke</string>
 
-    <string name="joker_one">Why is the spider the neediest animal in the world?\nBecause it is an arachneedyou.</string>
-    <string name="joker_two">Why doesnt the pine tree get lost in the forest?\nBecause it has a pine cone.</string>
-    <string name="joker_three">What was a pagodeiro doing in church?\nIt was singing PÁ GOD.</string>
-    <string name="joker_four">Why was Napoleon always called to parties?\nBecause he was GOOD AT PARTY.</string>
-    <string name="joker_five">What is the king of cheeses?\nIts cottage cheese.</string>
-    <string name="joker_six">Why doesnt the old lady wear a watch?\nBecause shes a lady.</string>
-    <string name="joker_seven">When did Americans first eat meat?\nWhen Cristovão Com Lombo arrived.</string>
+    <string name="joker_one">Why is the spider the neediest animal in the world?</string>
+    <string name="joker_one_answer">Because it is an arachneedyou.</string>
+    <string name="joker_two">Why doesnt the pine tree get lost in the forest?</string>
+    <string name="joker_two_answer">Because it has a pine cone.</string>
+    <string name="joker_three">What was a pagodeiro doing in church?</string>
+    <string name="joker_three_answer">It was singing PÁ GOD.</string>
 
 </resources>
