@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="joker_one">Por que a aranha é o animal mais carente do mundo?\nPorque ela é um aracneedyou.</string>
+    <string name="joker_two">Por que o pinheiro não se perde na floresta?\nPorque ele tem uma pinha.</string>
+    <string name="joker_three">O que um pagodeiro foi fazer na igreja?\nFoi cantar PÁ GOD.</string>
+    <string name="joker_four">Por que o Napoleão era chamado sempre pras festas?\nPorque ele era BOM NA PARTY.</string>
+    <string name="joker_five">Qual é o rei dos queijos?\nÉ o reiqueijão.</string>
+    <string name="joker_six">Por que a velhinha não usa relógio?\nPorque ela é senhora.</string>
+    <string name="joker_seven">Quando os americanos comeram carne pela primeira vez?\nQuando chegou Cristovão Com Lombo.</string>
+
+    <string-array name="jokers">
+        <item>@string/joker_one</item>
+        <item>@string/joker_two</item>
+        <item>@string/joker_three</item>
+        <item>@string/joker_four</item>
+        <item>@string/joker_five</item>
+        <item>@string/joker_six</item>
+        <item>@string/joker_seven</item>
+    </string-array>
+</resources>
